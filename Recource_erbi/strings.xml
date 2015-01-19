@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">眼耳口鼻</string>
+    <string name="pay_success_title">%s金币购买成功</string>
+    <string name="app_id">300008782302</string>
+    <string name="app_key">2DDCB4D3A0E968B1023B888DAFDE9985</string>
+    <string-array name="paycode">
+        <item>30000878230206</item>
+        <item>30000878230205</item>
+        <item>30000878230204</item>
+        <item>30000878230203</item>
+        <item>30000878230202</item>
+        <item>30000878230201</item>
+    </string-array>
+</resources>

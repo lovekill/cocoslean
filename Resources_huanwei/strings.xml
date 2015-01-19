@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">进击的环卫工</string>
+    <string name="pay_success_title">%s金币购买成功</string>
+    <string name="app_id">300008391921</string>
+    <string name="app_key">E280B3B2583CCCE4</string>
+    <string-array name="paycode">
+        <item>30000839192106</item>
+        <item>30000839192105</item>
+        <item>30000839192104</item>
+        <item>30000839192103</item>
+        <item>30000839192102</item>
+        <item>30000839192101</item>
+    </string-array>
+</resources>

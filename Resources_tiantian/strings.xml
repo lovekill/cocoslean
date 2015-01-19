@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">天天出游</string>
+    <string name="pay_success_title">%s金币购买成功</string>
+    <string name="app_id">300008679307</string>
+    <string name="app_key">10E76E50C783A0D1E955A31498C75CB7</string>
+    <string-array name="paycode">
+        <item>30000867930706</item>
+        <item>30000867930705</item>
+        <item>30000867930704</item>
+        <item>30000867930703</item>
+        <item>30000867930702</item>
+        <item>30000867930701</item>
+    </string-array>
+</resources>

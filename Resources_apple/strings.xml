@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">消失的苹果</string>
+    <string name="pay_success_title">%s金币购买成功</string>
+    <string name="app_id">300008790879</string>
+    <string name="app_key">A6D743B97F603902854DAB1A9ECFE69B</string>
+     <string-array name="paycode">
+        <item>30000879087906</item>
+        <item>30000879087905</item>
+        <item>30000879087904</item>
+        <item>30000879087903</item>
+        <item>30000879087902</item>
+        <item>30000879087901</item>
+    </string-array>
+</resources>

@@ -1,0 +1,24 @@
+# view AndroidManifest.xml #generated:13
+-keep class com.lookwan.popstar.LogoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.lookwan.popstar.PopStar { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class mm.purchasesdk.iapservice.BillingLayoutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class mm.purchasesdk.iapservice.PurchaseService { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class safiap.framework.CheckUpdateReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class safiap.framework.SafFrameworkManager { <init>(...); }
+
+# view AndroidManifest.xml #generated:113
+-keep class safiap.framework.logreport.monitor.handler.LogreportHandler { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class safiap.framework.ui.UpdateHintActivity { <init>(...); }
+

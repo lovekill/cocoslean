@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">疯狂鱼虾蟹</string>
+    <string name="pay_success_title">%s金币购买成功</string>
+    <string name="app_id">300008392037</string>
+    <string name="app_key">30BB1BAE7A84DE74</string>
+    <string-array name="paycode">
+        <item>30000839203706</item>
+        <item>30000839203705</item>
+        <item>30000839203704</item>
+        <item>30000839203703</item>
+        <item>30000839203702</item>
+        <item>30000839203701</item>
+    </string-array>
+</resources>
